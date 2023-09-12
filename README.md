@@ -6,6 +6,6 @@
 UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo Movil Integral <br>
 200668_Sandra Aguilar Santos<br>
-Practica3:Mi primer App en flutter.
-Descripción:Creacion de la primer App basica en flutter<br>
+Practica3:Mi primer App en flutter. <br>
+Descripción:Creacion de la primer App basica en flutter <br>
 Fecha entrega: 8 de septiembre del 2023
